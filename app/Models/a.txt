@@ -1,0 +1,3 @@
+-> registar productos
+-> registar los movimientos de salida y entrada
+-> cada movimiento de salida y entrada afecta la cantidad total de el producto que se movio
